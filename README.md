@@ -15,5 +15,5 @@ Shivani Gupta<br />
 CSE 2nd Years<br />
 MNNIT Allahabad<br />
 <br />
-![Alt text](images/imgage3.png)<br />
-![Alt text](https://github.com/nvrocks/EditNote/tree/master/images/imgage3.png)
+![Screenshot](images/imgage3.png)<br />
+![Screenshot](https://github.com/nvrocks/EditNote/tree/master/images/imgage3.png)
